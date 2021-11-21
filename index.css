@@ -1,0 +1,23 @@
+body
+{
+    margin:30px;
+    background-color: #ac9a79;
+    
+}
+
+h1{
+    font-size: 35px;
+    text-align: left;
+    color: rgb(114, 228, 228);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    
+}
+td:nth-child(2n+1){
+    color: rgb(110, 7, 64);
+}
+td:nth-child(even){
+    color: rgb(10, 38, 160);
+}
+th:nth-child(n){
+    color:rgb(179, 107, 0) ;
+}
